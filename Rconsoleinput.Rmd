@@ -7,4 +7,4 @@ print(msg)
 y <- 2
 print(y)
 z <- 1:30
-z
+print(z)
